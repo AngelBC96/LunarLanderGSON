@@ -1,0 +1,16 @@
+{
+    "config": [
+        {
+            "nombre": "Default",
+            "dificultad": "facil",
+            "nave": "nave",
+            "lugar": "luna"
+        },
+        {
+            "nombre": "Custom",
+            "dificultad": "dificil",
+            "nave": "ovni",
+            "lugar": "marte"
+        }
+    ]
+}
